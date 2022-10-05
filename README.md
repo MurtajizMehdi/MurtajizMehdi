@@ -2,7 +2,7 @@
 I’m interested in software development, web/app development, UI/UX design, problem solving and anything that can make me a better programmer.
 I’m currently learning computer science at Florida International University.
 I’m looking to collaborate on Python, HTML/CSS, and JavaScript projects.
-Contact me through email: chicomehdi1234@gmail.com.
+Contact me through email: <a href = "mailto: chicomehdi1234@gmail.com">Chicomehdi1234@gmail.com</a>
 <br>
 
 As an aspiring software engineer, I'm driven by creativity, curiosity, and critical thinking. My current main focus is landing an internship in order to collect first hand real world experience that can make me a better and more well-rounded programmer. 
