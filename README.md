@@ -5,7 +5,7 @@ I’m looking to collaborate on Python, HTML/CSS, and JavaScript projects.
 Contact me through email: <a href = "mailto: chicomehdi1234@gmail.com">Chicomehdi1234@gmail.com</a>
 <br>
 <br>
-As an aspiring software engineer, I'm driven by creativity, curiosity, and critical thinking. My current main focus is landing an internship in order to collect first hand real world experience that can make me a better and more well-rounded engineer. 
+As an aspiring software engineer, I'm driven by creativity, curiosity, and critical thinking. My current main focus is landing an internship in order to collect first hand real world experience that can make me a better and more well-rounded developer. 
 
 <!---
 MurtajizMehdi/MurtajizMehdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
