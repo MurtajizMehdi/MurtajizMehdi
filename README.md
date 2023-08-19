@@ -1,5 +1,5 @@
 <h1>Hi, I’m Murtajiz :)</h1>
-I’m interested in web / mobile application development, UI/UX design, problem solving and anything that can make me a better programmer.
+I’m interested in web / mobile application development, UI/UX design, problem solving and anything that can make me a better dev.
 I’m currently learning computer science at Florida International University.
 I’m looking to collaborate on Python, HTML/CSS, and JavaScript projects.
 Contact me through email: <a href = "mailto: chicomehdi1234@gmail.com">Chicomehdi1234@gmail.com</a>
