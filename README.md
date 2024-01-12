@@ -1,6 +1,6 @@
 <h1>Hi, I’m Murtajiz :)</h1>
 I’m interested in web & mobile application development, UI/UX design, problem solving and anything that can make me a better developer.
-I’m currently learning computer science at Florida International University.
+I’m currently learning computer science at Florida International University, and
 I’m looking to collaborate on full stack web and mobile projects.
 Feel free to contact me through <a href = "mailto: chicomehdi1234@gmail.com">email</a> for all collaborations!
 <br>
