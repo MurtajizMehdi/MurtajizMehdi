@@ -1,11 +1,16 @@
-<h1>Hi, I’m Murtajiz :)</h1>
-I’m interested in web & mobile application development, UI/UX design, problem solving and anything that can make me a better developer.
-I’m currently learning computer science at Florida International University, and
-I’m looking to collaborate on full stack web and mobile projects.
-Feel free to contact me through <a href = "mailto: chicomehdi1234@gmail.com">email</a> for all collaborations!
-<br>
-<br>
-As an aspiring software engineer, I'm driven by creativity, curiosity, and critical thinking. My current main focus is landing an internship in order to collect first hand real world experience that can make me a better and more well-rounded developer. 
+<h1>👋 Hi there, I'm Murtajiz!</h1>h1>
+
+I'm passionate about crafting web and mobile applications, diving into UI/UX design, and honing my problem-solving skills to become a proficient developer. Currently pursuing Computer Science at Florida International University, I'm eagerly seeking opportunities to collaborate on full-stack web and mobile projects that push boundaries and spark innovation.
+
+<h2>About Me</h2>
+Driven by creativity, curiosity, and critical thinking, I aspire to excel as a software engineer. My primary goal is to secure an internship where I can immerse myself in real-world challenges, gather invaluable experience, and evolve into a well-rounded developer.
+
+<h2>Get in Touch</h2>
+I'm always open to new collaborations and conversations. Feel free to reach out via email to explore potential projects and partnerships.
+
+Let's build something awesome together :)
+
+Email: <a href = "mailto: MurtajizMehdi1@Gmail.Com">MurtajizMehdi1@Gmail.Com</a>
 
 <!---
 MurtajizMehdi/MurtajizMehdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
