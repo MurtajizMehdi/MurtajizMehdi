@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Murtajiz!</h1>h1>
+<h1>👋 Hi there, I'm Murtajiz!</h1>
 
 I'm passionate about crafting web and mobile applications, diving into UI/UX design, and honing my problem-solving skills to become a proficient developer. Currently pursuing Computer Science at Florida International University, I'm eagerly seeking opportunities to collaborate on full-stack web and mobile projects that push boundaries and spark innovation.
 
